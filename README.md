@@ -3,3 +3,5 @@
 <p> This is a readme file for my Git demo </p>
 
 <p> This is another line added to the README </p>
+
+<p> Added GitHub Actions to this repo! </p>
